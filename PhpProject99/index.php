@@ -10,7 +10,7 @@ and open the template in the editor.
         <title>le 3 décembre 2016</title>
     </head>
     <body>
-        Hello Git/Apache, bon soir les EPFciens
+        Hello Git/Apache, bon soir les EPFciens et les non
         <?php
         // put your code here
         ?>
