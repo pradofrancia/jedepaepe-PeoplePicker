@@ -7,10 +7,10 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>le 3 décembre 2016</title>
     </head>
     <body>
-        Hello Git/Apache
+        Hello Git/Apache, bon soir les EPFciens
         <?php
         // put your code here
         ?>
